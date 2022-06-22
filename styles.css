@@ -1,0 +1,52 @@
+* {background-color:palegoldenrod;}
+
+.title { 
+    text-align: center;
+    font-weight: 800;
+    color: black;
+}
+/* all text on the home page */
+
+.odd {font-size: 14px;}
+/* this is for the recipe titles */
+
+.fun {font-size: 44px;font-family: fantasy;}
+/* this is for the main title */
+
+img {
+    height: 400px;
+    width: 600px;
+}
+/* all images */
+
+#centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+}
+/* image on home page */
+
+#heading {
+    text-align: center;
+}
+
+h2 {
+    font-family:fantasy;
+}
+
+div p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+}
+
+
+
+
